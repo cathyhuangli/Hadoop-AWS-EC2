@@ -5,4 +5,5 @@ The Project including mainly two parts of work:
 2. perform data warehousing queries using Hive, Pig and Hadoop streaming.
 
 Here is one snapshot:
+
 ![Hive query](https://github.com/cathyhuangli/Mining_Big_Data_Project-on-AWS-EC2/blob/master/Hive.png)
